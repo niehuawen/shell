@@ -1,9 +1,0 @@
-cisco
-huawei
-zte
-juniper
-h3c
-ruijie
-hp
-tp-link
-d-link
